@@ -1,6 +1,8 @@
 # SR-DSSE
 Source code of the paper entitled "Dynamic Searchable Symmetric Encryption with Strong  Security and Robustness"
 
+For IM-DSSE, we directly use the source code provided by [Thang Hoang et. al.](https://github.com/thanghoang/IM-DSSE)
+
 ## Pre-Requests
 
 To compile and run this code, cmake, [GMP](https://gmplib.org/) library, [OpenSSL](https://www.openssl.org/) library, and [TFHE](https://tfhe.github.io/tfhe/) are needed.
